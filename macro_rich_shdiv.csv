@@ -1,0 +1,11 @@
+﻿week_col,site_id,richness,shannon
+pre_dry,BDEG_2,7,1.631345
+pre_dry,BDEG_3,10,1.885117
+pre_dry,MSHN_1,19,2.381742
+pre_dry,MSHN_2,17,1.307625
+pre_dry,SPRL_3,7,1.269882
+post_dry,BDEG_2,3,1.0397208
+post_dry,BDEG_3,2,0.6931472
+post_dry,MSHN_1,15,1.7480612
+post_dry,MSHN_2,4,0.6551416
+post_dry,SPRL_3,8,1.633543
