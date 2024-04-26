@@ -1,0 +1,16 @@
+﻿component,index,type
+tmp_turnover,1,temporal
+tmp_turnover,0,temporal
+tmp_turnover,0.5714286,temporal
+tmp_turnover,0,temporal
+tmp_turnover,0.4444444,temporal
+pre_turnover,0.474,spatial
+pre_turnover,0.576,spatial
+pre_turnover,0.612,spatial
+pre_turnover,0.633,spatial
+pre_turnover,0.537,spatial
+pst_turnover,0.792,spatial
+pst_turnover,0.75,spatial
+pst_turnover,0.625,spatial
+pst_turnover,0.881,spatial
+pst_turnover,0.798,spatial
