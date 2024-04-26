@@ -1,0 +1,11 @@
+﻿component,index,type
+tmp_turn,1,temporal
+tmp_turn,0,temporal
+tmp_turn,0.5714286,temporal
+tmp_turn,0,temporal
+tmp_turn,0.4444444,temporal
+pst_turn,0.792,spatial
+pst_turn,0.75,spatial
+pst_turn,0.625,spatial
+pst_turn,0.881,spatial
+pst_turn,0.798,spatial
