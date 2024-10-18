@@ -1,0 +1,24 @@
+Title: Drought dilemmas: Exploring the impact of drying on macroinvertebrate diversity in vernal ponds
+Abstract: Vernal ponds are essential components of forested ecosystems in the eastern United States, providing crucial ecosystem services such as water filtration, biodiversity support, and flood regulation. Characterized by their seasonal drying, these ponds are increasingly affected by climate change, which may intensify hydrological fluctuations and impact the communities they support. This study investigates the effects of drying disturbances on macroinvertebrate communities in vernal ponds, focusing on biodiversity metrics before and after hydrological drawdown. Weekly monitoring of pond inundation and macroinvertebrate sampling was conducted in five vernal ponds in Central Pennsylvania during 2023. Alpha diversity was assessed using species richness and Shannon diversity, while temporal beta diversity was analyzed with Jaccard’s dissimilarity index, examining turnover and nestedness components. Our findings indicate no significant changes in alpha diversity metrics between pre- and post-drying periods. However, there was a trend toward greater species losses (77% of dissimilarity) compared to gains (23%), though the evidence for this difference was weak. Beta diversity analyses demonstrated stable patterns of turnover and nestedness across temporal and spatial scales, suggesting that drying disturbances did not significantly disrupt macroinvertebrate community structure. These results contrast with previous studies reporting significant shifts in community composition following similar disturbances. This discrepancy may be due to the adaptive strategies of macroinvertebrates or the influence of metacommunity dynamics in species reestablishment. This research underscores the necessity of long-term studies and detailed assessments of drying intensity to better understand climate change impacts on vernal pond ecosystems. The insights gained can inform effective conservation strategies, making these findings relevant to an international audience interested in wetland ecology and biodiversity preservation.
+Installation
+No software installation is required for understanding the concepts outlined in this study. However, if analyzing the dataset, install necessary dependencies for running statistical analyses, such as R.
+Data Collection
+•	Location: Five vernal ponds in Central Pennsylvania.
+•	Time Period: 2023 (weekly sampling during seasonal drying).
+•	Data Types:
+o	Pond inundation levels (measured weekly).
+o	Macroinvertebrate sampling and species identification.
+Usage
+For analyzing the dataset:
+1.	Import the necessary data into your R environment.
+2.	Perform diversity analyses:
+o	Alpha diversity: Use species richness and Shannon diversity indices.
+o	Beta diversity: Use Jaccard’s dissimilarity index to analyze turnover and nestedness components.
+Results Overview
+•	Alpha Diversity: No significant changes in species richness or Shannon diversity between pre- and post-drying periods.
+•	Beta Diversity: Species losses were greater than gains, but the difference was weak (77% of dissimilarity attributed to losses). Stable patterns of turnover and nestedness were observed.
+Contributing
+This research has been completed and is no longer ongoing. While the study is closed for direct contributions, insights from related research or comparative analyses are welcome for future discussions.
+Contact
+For more information or collaboration inquiries, contact Mason Ward at msw5688@psu.edu
+
